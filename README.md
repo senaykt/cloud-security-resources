@@ -1,1 +1,1 @@
-# ☁️🔒🏄🏻‍♀️🧋  Cloud Security Resources Repository ☁️🔒🏄🏻‍♀️🧋 #
+# ☁️🔒🏄🏻‍♀️🧋  Cloud Security Resources ☁️🔒🏄🏻‍♀️🧋 #
