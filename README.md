@@ -8,9 +8,8 @@
 | [Prowler](https://github.com/prowler-cloud/prowler) | Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness.|
 | xx | xx |
 | xx | xx |
-| xx | xx |
 | [CloudSploit](https://github.com/aquasecurity/cloudsploit) | CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: AWS, Microsoft Azure, GCP, OCI, and GitHub. |
-| `git diff` | Show file differences that **haven't been** staged |
+| [Komiser](https://github.com/tailwarden/komiser)  | Open-source cloud-environment inspector. |
 
  ### 🕵️‍♀️ Cloud Pentesting
  | Tool Name | Description |
