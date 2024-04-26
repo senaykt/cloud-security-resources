@@ -5,7 +5,7 @@
 ### 🧠 Cloud Security Posture Management (CSPM)
 | Tool Name | Description |
 | --- | --- |
-| xx | xx |
+| [Prowler](https://github.com/prowler-cloud/prowler) | Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness.|
 | xx | xx |
 | xx | xx |
 | xx | xx |
