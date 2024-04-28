@@ -2,6 +2,8 @@
 
 🔍 In this repository, you'll find a collection of my recommended links and resources for staying updated on the latest trends, best practices, and tools in cloud security. Feel free to explore and utilize these resources to enhance your knowledge and practices. 
 
+🔍  My main goal for selecting these links is collecting tools that get updates regularly, we do not want to use old ones. As you know, we need to follow the latest best practices and trends in cloud security. 
+
 ### 🧠 Cloud Security Posture Management (CSPM)
 | Tool Name | Description |
 | --- | --- |
