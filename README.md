@@ -5,7 +5,7 @@
 🔍  My main goal for selecting these links is collecting tools that get updates regularly, we do not want to use old ones. As you know, we need to follow the latest best practices and trends in cloud security. 
 
 ### 🧠 Cloud Security Posture Management (CSPM)
-| Tool Name | Description |
+| Resource Name | Description |
 | --- | --- |
 | [CloudSploit](https://github.com/aquasecurity/cloudsploit) | CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: AWS, Microsoft Azure, GCP, OCI, and GitHub. |
 | [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian/) | Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources. |
@@ -21,9 +21,12 @@
 
 
  ### 🕵️‍♀️ Cloud Pentesting
- | Tool Name | Description |
+ | Resource Name | Description |
 | --- | --- |
-| xx | An encyclopedia for offensive and defensive security knowledge in cloud native technologies. |
+| [Cloudfox](https://github.com/BishopFox/cloudfox)| Automating situational awareness for cloud penetration tests. |
+| [hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) | An encyclopedia for offensive and defensive security knowledge in cloud native technologies. |
+| [cloud_enum](https://github.com/initstring/cloud_enum) | Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. |
+| xx | xx |
 | xx | xx |
 | xx | xx |
 | xx | xx |
