@@ -34,8 +34,8 @@
  ### 🕵️‍♀️ Cloud Pentesting Labs
  | Resource Name | Description |
 | --- | --- |
-| [AWSGoat](https://github.com/ine-labs/AWSGoat)| AWSGoat : A Damn Vulnerable AWS Infrastructure |
-| [iam-vulnerable](https://github.com/BishopFox/iam-vulnerable)| Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground. |
+| [AWSGoat](https://github.com/ine-labs/AWSGoat) | AWSGoat : A Damn Vulnerable AWS Infrastructure |
+| [iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) | Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground. |
 | [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool |
 
 ### Infrastructure as Code (IaC) Scanning
