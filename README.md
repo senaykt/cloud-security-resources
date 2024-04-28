@@ -39,7 +39,7 @@
 | [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool |
 
 ### Infrastructure as Code (IaC) Scanning
-| Tool Name | Description |
+| Resource Name | Description |
 | --- | --- |
 | [Checkov](https://github.com/bridgecrewio/checkov)| Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code |
 | [kics](https://github.com/Checkmarx/kics) | Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. |
