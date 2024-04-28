@@ -41,10 +41,9 @@
 ### Infrastructure as Code (IaC) Scanning
 | Tool Name | Description |
 | --- | --- |
+| [Checkov](https://github.com/bridgecrewio/checkov)| Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code |
+| [kics](https://github.com/Checkmarx/kics) | Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. |
+| [terrascan](https://github.com/tenable/terrascan) | Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|
 | xx | xx |
-| xx | xx |
-| xx | xx |
-| xx | xx |
-| [CloudSploit](https://github.com/aquasecurity/cloudsploit) | CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: AWS, Microsoft Azure, GCP, OCI, and GitHub. |
-| `git diff` | Show file differences that **haven't been** staged |
+
 🔍 If you have any additional links to contribute, please submit a pull request. Together, let's build a comprehensive repository to support the cloud security community! 🌊
