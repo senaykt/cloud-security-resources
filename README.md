@@ -42,6 +42,7 @@
 | Resource Name | Description |
 | --- | --- |
 | [Checkov](https://github.com/bridgecrewio/checkov) | Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code |
+| [cdk-nag](https://github.com/cdklabs/cdk-nag) | Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code |
 | [kics](https://github.com/Checkmarx/kics) | Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. |
 | [terrascan](https://github.com/tenable/terrascan) | Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|
 | [tfsec](https://github.com/aquasecurity/tfsec) | Security scanner for your Terraform code |
