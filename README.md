@@ -7,6 +7,7 @@
 | --- | --- |
 | [CloudSploit](https://github.com/aquasecurity/cloudsploit) | CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: AWS, Microsoft Azure, GCP, OCI, and GitHub. |
 | [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian/) | Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources. |
+| [Cloudquery](https://github.com/cloudquery/cloudquery) | Use as an open source CSPM solution to monitor and enforce security policies across your cloud infrastructure for AWS, GCP, Azure and many more. |
 | [ElectricEye](https://github.com/jonrau1/ElectricEye) | ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring  |
 | [Prowler](https://github.com/prowler-cloud/prowler) | Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness.|
 | [ScoutSuite](https://github.com/nccgroup/ScoutSuite)  | Multi-Cloud Security Auditing Tool |
