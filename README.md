@@ -23,7 +23,7 @@
  ### 🕵️‍♀️ Cloud Pentesting
  | Tool Name | Description |
 | --- | --- |
-| xx | xx |
+| xx | An encyclopedia for offensive and defensive security knowledge in cloud native technologies. |
 | xx | xx |
 | xx | xx |
 | xx | xx |
