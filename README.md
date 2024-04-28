@@ -32,16 +32,22 @@
 | xx | xx |
 | xx | xx |
 
- ### 🕵️‍♀️ Cloud Pentesting Labs
+ ### ✍🏻 Cloud Pentesting Labs
  | Resource Name | Description |
 | --- | --- |
 | [AWSGoat](https://github.com/ine-labs/AWSGoat) | AWSGoat : A Damn Vulnerable AWS Infrastructure |
 | [Big IAM Challenge by Wiz](https://bigiamchallenge.com/challenge/1)  | Test Your Cloud Security Skills |
 | [iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) | Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground. |
-| [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool |
+| [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool. |
+
+### 👁 Cloud Asset & Activity Monitoring
+| Resource Name | Description |
+| --- | --- |
+|[aws-list-resources](https://github.com/welldone-cloud/aws-list-resources) | List your AWS resources in a given AWS account and region(s). |
+|[aws-summarize-account-activity](https://github.com/welldone-cloud/aws-summarize-account-activity) | Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made, as well as regions, IP addresses and user agents they used. |
 
 
-### Infrastructure as Code (IaC) Scanning
+### 🦾 Infrastructure as Code (IaC) Security
 | Resource Name | Description |
 | --- | --- |
 | [Checkov](https://github.com/bridgecrewio/checkov) | Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code |
@@ -49,5 +55,6 @@
 | [kics](https://github.com/Checkmarx/kics) | Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. |
 | [terrascan](https://github.com/tenable/terrascan) | Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|
 | [tfsec](https://github.com/aquasecurity/tfsec) | Security scanner for your Terraform code |
+
 
 🔍 If you have any additional links to contribute, please submit a pull request. Together, let's build a comprehensive repository to support the cloud security community! 🌊
