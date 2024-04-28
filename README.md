@@ -8,6 +8,7 @@
 | Resource Name | Description |
 | --- | --- |
 | [CloudSploit](https://github.com/aquasecurity/cloudsploit) | CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: AWS, Microsoft Azure, GCP, OCI, and GitHub. |
+| [cartography](https://github.com/lyft/cartography) | Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view. |
 | [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian/) | Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources. |
 | [Cloudquery](https://github.com/cloudquery/cloudquery) | Use as an open source CSPM solution to monitor and enforce security policies across your cloud infrastructure for AWS, GCP, Azure and many more. |
 | [ElectricEye](https://github.com/jonrau1/ElectricEye) | ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring  |
@@ -35,8 +36,10 @@
  | Resource Name | Description |
 | --- | --- |
 | [AWSGoat](https://github.com/ine-labs/AWSGoat) | AWSGoat : A Damn Vulnerable AWS Infrastructure |
+| [Big IAM Challenge by Wiz](https://bigiamchallenge.com/challenge/1)  | Test Your Cloud Security Skills |
 | [iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) | Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground. |
 | [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool |
+
 
 ### Infrastructure as Code (IaC) Scanning
 | Resource Name | Description |
