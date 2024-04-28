@@ -11,11 +11,17 @@
 | [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian/) | Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources. |
 | [Cloudquery](https://github.com/cloudquery/cloudquery) | Use as an open source CSPM solution to monitor and enforce security policies across your cloud infrastructure for AWS, GCP, Azure and many more. |
 | [ElectricEye](https://github.com/jonrau1/ElectricEye) | ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring  |
+| [Magpie](https://github.com/openraven/magpie) | A Cloud Security Posture Manager or CSPM with a focus on security analysis for the modern cloud stack and a focus on the emerging threat landscape such as cloud ransomware and supply chain attacks. |
+
+
+
 | [Prowler](https://github.com/prowler-cloud/prowler) | Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness.|
 | [ScoutSuite](https://github.com/nccgroup/ScoutSuite)  | Multi-Cloud Security Auditing Tool |
 | [steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance)  | Individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts  |
-
 | [Komiser](https://github.com/tailwarden/komiser)  | Open-source cloud-environment inspector. |
+| [ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud)  | Discover, prioritize, and remediate your risks in the cloud.|
+
+
 
  ### 🕵️‍♀️ Cloud Pentesting
  | Tool Name | Description |
