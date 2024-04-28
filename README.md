@@ -20,18 +20,24 @@
 
 
 
- ### 🕵️‍♀️ Cloud Pentesting
+ ### 🕵️‍♀️ Cloud Pentesting Tools
  | Resource Name | Description |
 | --- | --- |
 | [Cloudfox](https://github.com/BishopFox/cloudfox)| Automating situational awareness for cloud penetration tests. |
 | [hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) | An encyclopedia for offensive and defensive security knowledge in cloud native technologies. |
 | [cloud_enum](https://github.com/initstring/cloud_enum) | Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. |
+| [pacu](https://github.com/RhinoSecurityLabs/pacu) | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.|
+| [CloudBrute](https://github.com/0xsha/cloudbrute)  | Awesome cloud enumerator. |
 | xx | xx |
 | xx | xx |
+
+ ### 🕵️‍♀️ Cloud Pentesting Labs
+ | Resource Name | Description |
+| --- | --- |
+| [AWSGoat](https://github.com/ine-labs/AWSGoat)| AWSGoat : A Damn Vulnerable AWS Infrastructure |
+| [iam-vulnerable](https://github.com/BishopFox/iam-vulnerable)| Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground. |
+
 | xx | xx |
-| xx | xx |
-| [CloudSploit](https://github.com/aquasecurity/cloudsploit) | CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: AWS, Microsoft Azure, GCP, OCI, and GitHub. |
-| `git diff` | Show file differences that **haven't been** staged |
 
 ### Infrastructure as Code (IaC) Scanning
 | Tool Name | Description |
