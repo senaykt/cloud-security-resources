@@ -20,7 +20,6 @@
 | [ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud)  | Discover, prioritize, and remediate your risks in the cloud.|
 
 
-
  ### 🕵️‍♀️ Cloud Pentesting Tools
  | Resource Name | Description |
 | --- | --- |
@@ -29,8 +28,8 @@
 | [cloud_enum](https://github.com/initstring/cloud_enum) | Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. |
 | [pacu](https://github.com/RhinoSecurityLabs/pacu) | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.|
 | [CloudBrute](https://github.com/0xsha/cloudbrute)  | Awesome cloud enumerator. |
-| xx | xx |
-| xx | xx |
+| TBD | TBD |
+
 
  ### ✍🏻 Cloud Pentesting Labs
  | Resource Name | Description |
@@ -40,7 +39,8 @@
 | [iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) | Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground. |
 | [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool. |
 
-### 👁 Cloud Asset & Activity Monitoring
+
+### 👁 Cloud Asset Management & Activity Monitoring
 | Resource Name | Description |
 | --- | --- |
 |[aws-list-resources](https://github.com/welldone-cloud/aws-list-resources) | List your AWS resources in a given AWS account and region(s). |
