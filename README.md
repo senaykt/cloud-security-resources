@@ -57,4 +57,4 @@
 | [tfsec](https://github.com/aquasecurity/tfsec) | Security scanner for your Terraform code |
 
 
-🔍 If you have any additional links to contribute, please submit a pull request. Together, let's build a comprehensive repository to support the cloud security community! 🌊
+🛡 If you have any additional links to contribute, please submit a pull request. Let's build a comprehensive repository to support the cloud security community together! 🌊
