@@ -28,7 +28,7 @@
 | [cloud_enum](https://github.com/initstring/cloud_enum) | Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. |
 | [pacu](https://github.com/RhinoSecurityLabs/pacu) | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.|
 | [CloudBrute](https://github.com/0xsha/cloudbrute)  | Awesome cloud enumerator. |
-| TBD | TBD |
+| [aws-whoami-golang](https://github.com/benkehoe/aws-whoami-golang)| A tool to show what AWS account and identity you're using. |
 
 
  ### ✍🏻 Cloud Pentesting Labs
