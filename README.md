@@ -55,6 +55,7 @@
 | [kics](https://github.com/Checkmarx/kics) | Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. |
 | [terrascan](https://github.com/tenable/terrascan) | Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|
 | [tfsec](https://github.com/aquasecurity/tfsec) | Security scanner for your Terraform code |
+| [tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | CLI to prevent malicious Terraform Providers from being executed|
 
 
 🛡 If you have any additional links to contribute, please submit a pull request. Let's build a comprehensive repository to support the cloud security community together! 🌊
