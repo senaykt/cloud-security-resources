@@ -31,13 +31,15 @@
 | [aws-whoami-golang](https://github.com/benkehoe/aws-whoami-golang)| A tool to show what AWS account and identity you're using. |
 
 
+| [aws-whoami-golang](https://github.com/benkehoe/aws-whoami-golang)| A tool to show what AWS account and identity you're using. |
+
  ### ✍🏻 Cloud Pentesting Labs
  | Resource Name | Description |
 | --- | --- |
 | [AWSGoat](https://github.com/ine-labs/AWSGoat) | AWSGoat : A Damn Vulnerable AWS Infrastructure |
 | [Big IAM Challenge by Wiz](https://bigiamchallenge.com/challenge/1)  | Test Your Cloud Security Skills |
 | [iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) | Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground. |
-| [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  | CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool. |
+| [cognito-scanner](https://github.com/padok-team/cognito-scanner)  | A simple script which implements different Cognito attacks such as Account Oracle or Privilege Escalation. |
 
 
 ### 👁 Cloud Asset Management & Activity Monitoring
