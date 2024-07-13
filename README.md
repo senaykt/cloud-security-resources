@@ -45,8 +45,6 @@
 | --- | --- |
 |[aws-list-resources](https://github.com/welldone-cloud/aws-list-resources) | List your AWS resources in a given AWS account and region(s). |
 |[aws-summarize-account-activity](https://github.com/welldone-cloud/aws-summarize-account-activity) | Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made, as well as regions, IP addresses and user agents they used. |
-
-
 |[wut.dev](https://wut.dev/) | Wut.dev is a client-side browser for AWS Organizations and SCPs. |
 
 
