@@ -29,16 +29,16 @@
 | [pacu](https://github.com/RhinoSecurityLabs/pacu) | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments|
 | [CloudBrute](https://github.com/0xsha/cloudbrute)  | Awesome cloud enumerator |
 | [aws-whoami-golang](https://github.com/benkehoe/aws-whoami-golang)| A tool to show what AWS account and identity you're using |
-
-
+| [cognito-scanner](https://github.com/padok-team/cognito-scanner)  | A simple script which implements different Cognito attacks such as Account Oracle or Privilege Escalation. |
+| [EscalateGPT](https://github.com/padok-team/cognito-scanner)  | An AI-powered tool for discovering privilege escalation opportunities in AWS IAM configurations. |
 
  ### ✍🏻 Cloud Pentesting Labs
  | Resource Name | Description |
 | --- | --- |
 | [AWSGoat](https://github.com/ine-labs/AWSGoat) | AWSGoat : A Damn Vulnerable AWS Infrastructure |
 | [Big IAM Challenge by Wiz](https://bigiamchallenge.com/challenge/1)  | Test Your Cloud Security Skills |
-| [iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) | Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground |
-| [cognito-scanner](https://github.com/padok-team/cognito-scanner)  | A simple script which implements different Cognito attacks such as Account Oracle or Privilege Escalation. |
+| [iam-vulnerable](https://github.com/tenable/EscalateGPT) | Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground |
+
 
 
 ### 👁 Cloud Asset Management & Activity Monitoring
