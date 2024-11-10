@@ -32,7 +32,7 @@
 | [cognito-scanner](https://github.com/padok-team/cognito-scanner)  | A simple script which implements different Cognito attacks such as Account Oracle or Privilege Escalation |
 | [EscalateGPT](https://github.com/padok-team/cognito-scanner)  | An AI-powered tool for discovering privilege escalation opportunities in AWS IAM configurations |
 | [surf](https://github.com/assetnote/surf)  | Escalate your SSRF vulnerabilities on Modern Cloud Environments |
-
+| [Halberd : Multi-Cloud Attack Tool](https://github.com/vectra-ai-research/Halberd)  | Halberd enables you to proactively assess your cloud defenses by executing a comprehensive array of attack techniques across Entra ID, M365, Azure, and AWS |
 
  ### ✍🏻 Cloud Pentesting Labs
  | Resource Name | Description |
@@ -51,6 +51,7 @@
 |[wut.dev](https://wut.dev/) | Wut.dev is a client-side browser for AWS Organizations and SCPs |
 |[Cloud Console Cartographer](https://github.com/Permiso-io-tools/CloudConsoleCartographer) | Cloud Console Cartographer is a framework for condensing groupings of cloud events |
 |[threat-composer](https://github.com/awslabs/threat-composer) | A simple threat modeling tool to help humans to reduce time-to-value when threat modeling |
+|[cloudtail](https://github.com/Permiso-io-tools/cloudtail) | CloudTail is an open-source tool designed to simplify the long-term retention and searchability of cloud logs from cloud platforms like AWS and Azure |
 
 ### 🦾 Infrastructure as Code (IaC) Security
 | Resource Name | Description |
