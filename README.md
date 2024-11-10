@@ -33,6 +33,9 @@
 | [EscalateGPT](https://github.com/padok-team/cognito-scanner)  | An AI-powered tool for discovering privilege escalation opportunities in AWS IAM configurations |
 | [surf](https://github.com/assetnote/surf)  | Escalate your SSRF vulnerabilities on Modern Cloud Environments |
 | [Halberd : Multi-Cloud Attack Tool](https://github.com/vectra-ai-research/Halberd)  | Halberd enables you to proactively assess your cloud defenses by executing a comprehensive array of attack techniques across Entra ID, M365, Azure, and AWS |
+| [CloudShovel](https://github.com/saw-your-packet/CloudShovel)  | A tool for scanning public or private AMIs for sensitive files and secrets. |
+| [Stratus Red Team](https://github.com/DataDog/stratus-red-team/)  | Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner. |
+| [ROADtools](https://github.com/dirkjanm/ROADtools)  | ROADtools is a framework to interact with Azure AD. It consists of a library (roadlib) with common components, the ROADrecon Azure AD exploration tool and the ROADtools Token eXchange (roadtx) tool. |
 
  ### ✍🏻 Cloud Pentesting Labs
  | Resource Name | Description |
