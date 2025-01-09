@@ -18,7 +18,7 @@
 | [steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance)  | Individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts  |
 | [Komiser](https://github.com/tailwarden/komiser)  | Open-source cloud-environment inspector |
 | [ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud)  | Discover, prioritize, and remediate your risks in the cloud |
-
+| [Azure Resource Configuration Scanner](https://github.com/mertyeter/az-resource-config-scanner)  | PowerShell script designed to scan and retrieve security related configurations for various Azure resources |
 
  ### 🕵️‍♀️ Cloud Pentesting Tools
  | Resource Name | Description |
