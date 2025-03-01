@@ -36,6 +36,8 @@
 | [CloudShovel](https://github.com/saw-your-packet/CloudShovel)  | A tool for scanning public or private AMIs for sensitive files and secrets. |
 | [Stratus Red Team](https://github.com/DataDog/stratus-red-team/)  | Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner. |
 | [ROADtools](https://github.com/dirkjanm/ROADtools)  | ROADtools is a framework to interact with Azure AD. It consists of a library (roadlib) with common components, the ROADrecon Azure AD exploration tool and the ROADtools Token eXchange (roadtx) tool. |
+| [bucket-shield](https://github.com/Permiso-io-tools/Bucket-Shield)  | BucketShield is an open-source tool designed to simulate and detect numerous actions that can disrupt the flow of AWS CloudTrail logs to their configured S3 Buckets. |
+
 
  ### ✍🏻 Cloud Pentesting Labs
  | Resource Name | Description |
