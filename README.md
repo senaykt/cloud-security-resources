@@ -58,6 +58,7 @@
 |[threat-composer](https://github.com/awslabs/threat-composer) | A simple threat modeling tool to help humans to reduce time-to-value when threat modeling |
 |[cloudtail](https://github.com/Permiso-io-tools/cloudtail) | CloudTail is an open-source tool designed to simplify the long-term retention and searchability of cloud logs from cloud platforms like AWS and Azure |
 |[RansomWhen](https://github.com/Permiso-io-tools/RansomWhen) | RansomWhen is a tool to enumerate identities that can lock S3 Buckets using KMS, resulting in ransomwares, as well as detect occurances of S3 Ransomwares using KMS. |
+|[TrailAlerts](https://github.com/adanalvarez/TrailAlerts) | TrailAlerts is a AWS-native, serverless cloud-detection tool that lets you define simple rules as code and get rich alerts about events in AWS. |
 
 ### 🦾 Infrastructure as Code (IaC) Security
 | Resource Name | Description |
