@@ -19,6 +19,8 @@
 | [Komiser](https://github.com/tailwarden/komiser)  | Open-source cloud-environment inspector |
 | [ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud)  | Discover, prioritize, and remediate your risks in the cloud |
 | [Azure Resource Configuration Scanner](https://github.com/mertyeter/az-resource-config-scanner)  | PowerShell script designed to scan and retrieve security related configurations for various Azure resources |
+| [YES3 Scanner](https://github.com/FogSecurity/yes3-scanner) | YES3 Scanner: S3 Security Scanner for Access and Ransomware Protection |
+| [finders-keypers](https://github.com/FogSecurity/finders-keypers) | Finders Keypers: AWS KMS Encryption Key Usage and Blast Radius Finder |
 
  ### 🕵️‍♀️ Cloud Pentesting Tools
  | Resource Name | Description |
