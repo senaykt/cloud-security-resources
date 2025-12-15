@@ -41,6 +41,9 @@
 | [bucket-shield](https://github.com/Permiso-io-tools/Bucket-Shield)  | BucketShield is an open-source tool designed to simulate and detect numerous actions that can disrupt the flow of AWS CloudTrail logs to their configured S3 Buckets. |
 | [CloudPEASS](https://github.com/carlospolop/CloudPEASS) | Cloud Privilege Escalation Awesome Script Suite – your one-stop solution to find your permissions whenever you compromise a principal in a Red Team across major cloud platforms: Azure, GCP, and AWS. |
 | [findmytakeover](https://github.com/anirudhbiyani/findmytakeover) | find dangling domains in a multi cloud environment |
+| [EntraFalcon](https://github.com/CompassSecurity/EntraFalcon) | A lightweight PowerShell tool for assessing the security posture of Microsoft Entra ID environments. It helps identify privileged objects, risky assignments, and potential misconfigurations. |
+| [EntraTokenAid](https://github.com/zh54321/EntraTokenAid) | A pure PowerShell solution for Entra OAuth authentication, enabling easy retrieval of access and refresh tokens |
+| [GraphPreConsentExplorer](https://github.com/zh54321/GraphPreConsentExplorer) | A comprehensive list of usable Entra ID first-party clients with pre-consented Microsoft Graph scopes, in a simple YAML-file explorable with a simple HTML GUI. |
 
  ### ✍🏻 Cloud Pentesting Labs
  | Resource Name | Description |
